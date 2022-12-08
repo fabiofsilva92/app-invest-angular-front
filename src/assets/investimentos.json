@@ -1,0 +1,18 @@
+[
+    {
+        "_id": 1,
+        "pessoa": {
+            "_id": 1,
+            "nome": "fabio"
+        },
+        "investimento": "CDB",
+        "rendimento": "10% a.a",
+        "banco": {
+            "_id": 1,
+            "nome": "Inter"
+        },
+        "data": "10/10/2010",
+        "vencimento": "10/10/2011",
+        "valor":1000.20
+    }
+  ]
