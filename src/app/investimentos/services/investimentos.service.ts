@@ -19,6 +19,7 @@ export class InvestimentosService {
       first(),
       tap((investimento: any) => console.log(investimento))
     );
+
   }
 
 }
